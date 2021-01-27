@@ -1,0 +1,16 @@
+.
+/*h1タグの中でもkudoというidのやつだけを装飾 */
+h1#kud{
+    font-family: impact;
+    font-size: 60xp; 
+    color: aqua;
+}
+
+h2#kudo{
+    font-family: impact;
+    font-size: 100xp; 
+    background: red;
+    color: aqua
+}
+
+
